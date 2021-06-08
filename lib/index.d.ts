@@ -62,6 +62,8 @@ declare namespace rcedit {
      * XML that is to be embedded in the EXE.
      */
     'application-manifest'?: string
+    /** Custom resource type with value as a unicode string. */
+    'custom-unicode-resource'?: string[]
   }
 }
 
