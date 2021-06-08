@@ -1,7 +1,7 @@
 {
   "name": "rcedit-wayvad",
-  "version": "1.0.1",
-  "description": "Node module to edit resources of exe",
+  "version": "1.0.4",
+  "description": "Node module to edit resources of exe, based on electron/node-rcedit version 3.0.0",
   "main": "lib/rcedit.js",
   "types": "lib/index.d.ts",
   "scripts": {
